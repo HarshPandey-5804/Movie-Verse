@@ -13,11 +13,12 @@ export function LandingPage() {
 
     return (
         <>
+    
             <div className="bg-violet-300 w-full min-h-screen py-8">
                 {/* Header Section */}
                 <div className="flex justify-center font-bold text-4xl mb-12">
                     <h1 className="text-5xl text-zinc-700 font-serif">
-                        Welcome to MovieVerse 🎬
+                        Welcome to MovieVerse 🎬, by Harsh
                     </h1>
                 </div>
 
